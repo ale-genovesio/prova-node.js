@@ -1,0 +1,37 @@
+{
+    "albums": [
+        {
+            "name": "firstAlbum",
+            "photos": [],
+            "hashtags": [
+                "#photo"
+            ],
+            "creationDate": "2024-03-29T16:24:29.163Z",
+            "lastEditDate": "2024-03-29T16:24:29.163Z",
+            "id": 1
+        },
+        {
+            "name": "firstAlbum-",
+            "photos": [
+                1
+            ],
+            "hashtags": [
+                "#photo"
+            ],
+            "creationDate": "2024-03-29T16:24:46.543Z",
+            "lastEditDate": "2024-03-29T16:24:46.543Z",
+            "id": 2
+        }
+    ],
+    "photos": [
+        {
+            "name": "firstPhoto",
+            "creationDate": "2024-03-29T16:25:01.875Z",
+            "lastEditDate": "2024-03-29T16:25:01.875Z",
+            "hashtags": [
+                "#dog"
+            ],
+            "id": 1
+        }
+    ]
+}
